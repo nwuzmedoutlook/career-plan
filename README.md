@@ -2,6 +2,7 @@
 ## 😎欢迎大家<a href="http://nwu-zmed.mikecrm.com/ByZJon8" target="_blank" style="color:#1d953f" >补充分享更多经验</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/career-plan/edit/main/README.md" target="_blank">🔨Pull Requests</a>
 #### 😆取之有度，用之有道；共享经验，互相成就。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/career-plan" target="_blank" style="color:#1d953f front-size:60px" >⭐Give me a star!</a>
 
+
 | 序号 | 学校名称 | 学校类型 | 课程资源链接 |
 | :---: | :---: | :---: | --- |
 | 1 | 北京大学 | Top | AdvancedEdu 飞跃重洋 <br> https://bbs.pku.edu.cn/v2/thread.php?bid=41&type=1&mode=single |
@@ -48,6 +49,8 @@
 | ☆ | 导师推荐人 |   | 导师评价网-导师点评网 <br> https://www.daoshipingjia.xyz |
 | ☆ | CS Masters Application |   | https://csmsapp.org/ <br> https://csmsapp.github.io/ |
 | ☆ | TransferWiki |   | 为打算转学的同学准备的一个Wiki <br> https://transferwiki.com/ <br> https://transferwiki.cn/ |
+
 ## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
+
 Made with 💖 by <a href="https://co2co2.cf" target="_blank" rel="noopener">NWUzmed</a>, 
 <p align="right">Last updated: 2023.01.09</p>
