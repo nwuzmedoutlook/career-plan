@@ -1,6 +1,6 @@
-# 📚各大高校保研、留学、考研、就业经验分享&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://qq-group.cf" target="_blank" style="color:#1d953f" >💡加入组织</a>
-## 😎欢迎大家<a href="http://nwu-zmed.mikecrm.com/ByZJon8" target="_blank" style="color:#1d953f" >补充分享更多经验</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/career-plan/edit/main/README.md" target="_blank">🔨Pull Requests</a>
-#### 😆取之有度，用之有道；共享经验，互相成就。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/career-plan" target="_blank" style="color:#1d953f front-size:60px" >⭐Give me a star!</a>
+# 📚各大高校保研、留学、考研、就业经验分享&emsp;&emsp;&emsp;&emsp;<a href="https://qq-group.cf" target="_blank" style="color:#1d953f" >💡加入组织</a>
+## 😎欢迎大家<a href="http://nwu-zmed.mikecrm.com/ByZJon8" target="_blank" style="color:#1d953f" >补充分享更多经验</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/career-plan/edit/main/README.md" target="_blank">🔨Pull Requests</a>
+#### 😆取之有度，用之有道；共享经验，互相成就。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/career-plan" target="_blank" style="color:#1d953f front-size:60px" >⭐Give me a star!</a>
 
 
 | 序号 | 学校名称 | 学校类型 | 课程资源链接 |
@@ -35,7 +35,7 @@
 | 28 | 四川师范大学 |  | 飞跃手册 <br> https://www.sicnu.wiki/ <br> https://github.com/SICNU-Application/wiki-SICNU |
 | 29 | 广东工业大学 |  | 计算机学院保研经验贴 <br> https://metaphysicser.github.io/GDUT-Computer-Survival-Manual/ <br> https://github.com/metaphysicser/GDUT-Computer-Survival-Manual |
 | 30 | 香港城市大学 |  | 飞跃手册 <br> https://www.cityuwiki.com/ <br> https://github.com/FyisFe/CityU-Wiki |
-| ☆ | 很多大学 | 往期飞跃手册 | [点击高速下载](https://nwuzmed.lanzoub.com/b04jhzhle)  |
+| ☆ | 很多大学 | 往期飞跃手册 | [点击高速下载](https://nwuzmed.lanzoub.com/b04jhzhle)，下载密码[点击这里](https://qq-group.cf/)获取 <br> ![往期飞跃手册](https://s1.ax1x.com/2023/01/10/pSmQi5V.png) |
 | ☆ | 电力电子 |   | （PE）飞跃手册 <br> https://zliao555.github.io/flying_brochure/ <br> PE北美飞跃手册 V2019.1.pdf-百度网盘提取码gw2t <br>  https://pan.baidu.com/s/1TuPvkmOTwl0ztNb_12UBBQ <br> 电力电子专业应届生就业指南 <br> https://www.zhihu.com/people/zhang-shen-hua-60/posts |
 | ☆ | 润学 |   | 官方指定GITHUB <br> https://github.com/The-Run-Philosophy-Organization/run |
 | ☆ | 欧洲留学 |   | 飞跃手册 <br> https://chaoli.club/index.php/6978/2022/01 |
