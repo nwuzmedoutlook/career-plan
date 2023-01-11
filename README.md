@@ -40,7 +40,6 @@
 | ☆ | 电力电子 |   | （PE）飞跃手册 <br> https://zliao555.github.io/flying_brochure/ <br> PE北美飞跃手册 V2019.1.pdf-百度网盘提取码gw2t <br>  https://pan.baidu.com/s/1TuPvkmOTwl0ztNb_12UBBQ <br> 电力电子专业应届生就业指南 <br> https://www.zhihu.com/people/zhang-shen-hua-60/posts |
 | ☆ | 润学 |   | 官方指定GITHUB <br> https://github.com/The-Run-Philosophy-Organization/run |
 | ☆ | 欧洲留学 |   | 飞跃手册 <br> https://chaoli.club/index.php/6978/2022/01 |
-| ☆ | 很多大学 |   | 计算机类保研经验分享 <br> https://github.com/shiyi001/baoyan-blog |
 | ☆ | 论坛推荐 |   | 一些高质量的留学论坛 <br> https://www.zhihu.com/question/25157124 |
 | ☆ | ChaseDream |   | MBA申请、商学院Master/PhD申请，GMAT备考（逐梦网） <br> https://www.chasedream.com/ |
 | ☆ | 一亩三分地社区 |   | 留学\申请\求职\移民\生活-高信噪比+纯干货 <br> https://www.1point3acres.com/ |
@@ -50,6 +49,9 @@
 | ☆ | 导师推荐人 |   | 导师评价网-导师点评网 <br> https://www.daoshipingjia.xyz |
 | ☆ | CS Masters Application |   | https://csmsapp.org/ <br> https://csmsapp.github.io/ |
 | ☆ | TransferWiki |   | 为打算转学的同学准备的一个Wiki <br> https://transferwiki.com/ <br> https://transferwiki.cn/ |
+| ☆ | 计算机类保研 | 很多大学 | 经验分享 <br> https://github.com/shiyi001/baoyan-blog |
+| ☆ | 保研论坛 |   | 保研学子前沿交流社区 <br> https://www.eeban.com/ |
+| ☆ | 考研论坛 |   | 考研人的精神家园！ <br> http://bbs.kaoyan.com/ |
 
 ## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
