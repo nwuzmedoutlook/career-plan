@@ -4,7 +4,7 @@
 <a href="https://studyhard.cf/" target="_blank" >📚各大高校课程资源汇总，在Github上大学</a>
 
 
-| 序号 | 学校名称 | 学校类型 | 课程资源链接 |
+| 序号 | 学校名称 | 学校类型 | 资源链接 |
 | :---: | :---: | :---: | --- |
 | 1 | 北京大学 | Top | AdvancedEdu 飞跃重洋 <br> https://bbs.pku.edu.cn/v2/thread.php?bid=41&type=1&mode=single |
 | 2 | 清华大学 | Top | 水木社区 飞跃重洋 <br> https://www.mysmth.net/nForum/#!board/AdvancedEdu |
