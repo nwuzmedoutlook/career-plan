@@ -1,4 +1,4 @@
-# 🎓各大高校保研、留学、考研、就业经验分享&emsp;&emsp;&emsp;&emsp;<a href="https://qq-group.cf" target="_blank" style="color:#1d953f" >💡加入组织</a>
+# 🎓各大高校留学、保研、考研、就业经验分享&emsp;&emsp;&emsp;&emsp;<a href="https://qq-group.cf" target="_blank" style="color:#1d953f" >💡加入组织</a>
 ## 😎欢迎大家<a href="http://nwu-zmed.mikecrm.com/aXr8ygt" target="_blank" style="color:#1d953f" >补充分享更多经验</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/career-plan/edit/main/README.md" target="_blank">🔨Pull Requests</a>
 #### 😆取之有度，用之有道；共享经验，互相成就；知往鉴今，以启未来。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/nwuzmedoutlook/career-plan" target="_blank" style="color:#1d953f front-size:60px" >⭐Give me a star!</a>
 <a href="https://studyhard.cf/" target="_blank" >📚各大高校课程资源汇总，在Github上大学</a>
