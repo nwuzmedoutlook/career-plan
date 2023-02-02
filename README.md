@@ -40,6 +40,7 @@
 | ☆ | 电力电子 |   | （PE）飞跃手册 <br> https://zliao555.github.io/flying_brochure/ <br> PE北美飞跃手册 V2019.1.pdf-百度网盘提取码gw2t <br>  https://pan.baidu.com/s/1TuPvkmOTwl0ztNb_12UBBQ <br> 电力电子专业应届生就业指南 <br> https://www.zhihu.com/people/zhang-shen-hua-60/posts |
 | ☆ | 润学 |   | 官方指定GITHUB <br> https://github.com/The-Run-Philosophy-Organization/run |
 | ☆ | 欧洲留学 |   | 飞跃手册 <br> https://chaoli.club/index.php/6978/2022/01 |
+| ☆ | 美国大学备考资料 |   | How to apply US colleges <br> https://github.com/F4bwDP6a6W/FLY_US |
 | ☆ | 论坛推荐 |   | 一些高质量的留学论坛 <br> https://www.zhihu.com/question/25157124 |
 | ☆ | ChaseDream |   | MBA申请、商学院Master/PhD申请，GMAT备考（逐梦网） <br> https://www.chasedream.com/ |
 | ☆ | 一亩三分地社区 |   | 留学\申请\求职\移民\生活-高信噪比+纯干货 <br> https://www.1point3acres.com/ |
