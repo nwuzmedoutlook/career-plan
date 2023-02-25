@@ -26,7 +26,7 @@
 | 18 | 合肥工业大学 | 世界一流学科<br>211 | 学长学姐保研经验 <br> https://github.com/PhelixChen/baoyan |
 | 19 | 西北大学 | 世界一流学科<br>211 | 专属公益经验分享平台（保研、考研、工作、出国） <br> https://weixin.sogou.com/weixin?type=2&s_from=input&query=NWUnicorn  |
 | 20 | 河海大学 | 世界一流学科<br>211 | 飞跃手册 <br> https://github.com/Novitch00/HHU_feiyue |
-| 21 | 华东理工大学 | 世界一流学科<br>211 | 飞跃手册 2.0 (出国\保研\考研\求职) <br> https://ecust-leap.github.io/ <br> https://github.com/ECUST-Leap/ecust-leap.github.io |
+| 21 | 华东理工大学 | 世界一流学科<br>211 | 飞跃手册（出国\保研\考研\求职） <br> https://ecust-leap.github.io/ <br> https://github.com/ECUST-Leap/ecust-leap.github.io |
 | 22 | 安徽大学 | 世界一流学科<br>211 | 飞跃手册 <br> https://www.ahu.wiki/ <br> https://ahuwiki.gitee.io/impart-inherit/ <br> https://github.com/AHUer-LeapLap/Impart-Inherit <br> https://gitee.com/ahuwiki/Impart-Inherit <br> 计算机系信息安全专业入门指导 <br> https://first-book-2.gitbook.io/the-guide-of-information-security-in-anhui-univers/ |
 | 23 | 上海大学 | 世界一流学科<br>211 | 溯源手册 <br> https://shuosc.github.io/fly/ |
 | 24 | 南方科技大学 |  | 飞跃手册 <br> https://sustech-application.com/ <br> https://github.com/SUSTech-Application/SUSTechapplication <br> https://sustech-application.github.io/2019-Fall/ <br> https://sustc.wiki/飞跃手册 |
