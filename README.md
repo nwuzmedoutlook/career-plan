@@ -54,7 +54,7 @@
 | ☆ | 保研论坛 |   | 保研学子前沿交流社区 <br> https://www.eeban.com/ |
 | ☆ | 考研论坛 |   | 考研人的精神家园！ <br> http://bbs.kaoyan.com/ |
 
-## 更多内容，请关注<a href="https://nwuzmed.ga/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
+## 更多内容，请关注<a href="https://studyhard.eu.org/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
 Made with 💖 by <a href="https://co2co2.cf" target="_blank" rel="noopener">NWUzmed</a>, 
 <p align="right">Last updated: 2023.01.09</p>
