@@ -33,7 +33,7 @@
 | 25 | 河南大学 |  | 生存/飞跃手册 <br> https://github.com/HENU-CS/SurvivalHandbook/tree/master |
 | 26 | 南京工业大学 |  | 飞跃手册 <br> https://github.com/yaoshun123/FLY_NJTech |
 | 27 | 西交利物浦大学 |  | 飞跃手册 <br> https://awesome-xjtlu.github.io/wiki/ <br> https://github.com/awesome-xjtlu/wiki |
-| 28 | 四川师范大学 |  | 飞跃手册 <br> https://www.sicnu.wiki/ <br> https://github.com/SICNU-Application/wiki-SICNU |
+| 28 | 四川师范大学 |  | 飞跃手册 <br> https://www.sicnuwiki.com/ <br> https://github.com/SICNU-Application/wiki-SICNU |
 | 29 | 广东工业大学 |  | 计算机学院保研经验贴 <br> https://metaphysicser.github.io/GDUT-Computer-Survival-Manual/ <br> https://github.com/metaphysicser/GDUT-Computer-Survival-Manual |
 | 30 | 香港城市大学 |  | 飞跃手册 <br> https://www.cityuwiki.com/ <br> https://github.com/FyisFe/CityU-Wiki |
 | ☆ | 很多大学 | 往期飞跃手册 | [点击高速下载](https://nwuzmed.lanzoub.com/b04jhzhle)，下载密码<a href="https://qq-group.cf" target="_blank" >点击这里</a>获取 <br> ![往期飞跃手册](https://s1.ax1x.com/2023/01/10/pSmQi5V.png) |
@@ -57,4 +57,4 @@
 ## 更多内容，请关注<a href="https://studyhard.eu.org/" target="_blank">DAC导航</a>，让校园生活更加精彩！<br>
 
 Made with 💖 by <a href="https://co2co2.cf" target="_blank" rel="noopener">NWUzmed</a>, 
-<p align="right">Last updated: 2023.01.09</p>
+<p align="right">Last updated: 2023.11.24</p>
